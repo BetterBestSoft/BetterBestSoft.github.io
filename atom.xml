@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>BetterSoft</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://bettersoft.gitee.io/"/>
+  <updated>2020-07-25T07:31:50.264Z</updated>
+  <id>http://bettersoft.gitee.io/</id>
+  
+  <author>
+    <name>whereisnothing</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Company Information</title>
+    <link href="http://bettersoft.gitee.io/2020/07/25/information/"/>
+    <id>http://bettersoft.gitee.io/2020/07/25/information/</id>
+    <published>2020-07-25T03:01:56.000Z</published>
+    <updated>2020-07-25T07:31:50.264Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="BetterSoft"><a href="#BetterSoft" class="headerlink" title="BetterSoft"></a>BetterSoft</h2><p>Company Website: <a href="http://bettersoft.gitee.io">http://bettersoft.gitee.io</a></p><h3 id="Chen-Xu-whereisnothing"><a href="#Chen-Xu-whereisnothing" class="headerlink" title="Chen Xu     whereisnothing"></a>Chen Xu     whereisnothing</h3><p>Github: <a href="https://github.com/whereisnothing" target="_blank" rel="noopener">https://github.com/whereisnothing</a><br>Gitee: <a href="https://gitee.com/whereisnothing" target="_blank" rel="noopener">https://gitee.com/whereisnothing</a><br>QQ: <a href="mqqwpa://im/chat?chat_type=wpa&uin=2185747069">2185747069</a><br>Wechat: chenxuhefei<br>Email: <a href="mailto:chenxu119168743@sina.com">chenxu119168743@sina.com</a></p><h3 id="Apps"><a href="#Apps" class="headerlink" title="Apps"></a>Apps</h3><p>Phone Manager: <a href="https://play.google.com/store/apps/details?id=com.ccteam.cleangod" target="_blank" rel="noopener">Google Play</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;BetterSoft&quot;&gt;&lt;a href=&quot;#BetterSoft&quot; class=&quot;headerlink&quot; title=&quot;BetterSoft&quot;&gt;&lt;/a&gt;BetterSoft&lt;/h2&gt;&lt;p&gt;Company Website: &lt;a href=&quot;http://bette
+      
+    
+    </summary>
+    
+    
+      <category term="Blog" scheme="http://bettersoft.gitee.io/categories/Blog/"/>
+    
+      <category term="Other" scheme="http://bettersoft.gitee.io/categories/Blog/Other/"/>
+    
+    
+      <category term="BetterSoft" scheme="http://bettersoft.gitee.io/tags/BetterSoft/"/>
+    
+      <category term="about" scheme="http://bettersoft.gitee.io/tags/about/"/>
+    
+      <category term="information" scheme="http://bettersoft.gitee.io/tags/information/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://bettersoft.gitee.io/2020/07/25/hello-world/"/>
+    <id>http://bettersoft.gitee.io/2020/07/25/hello-world/</id>
+    <published>2020-07-24T16:00:00.000Z</published>
+    <updated>2020-07-25T06:29:59.302Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+      <category term="Blog" scheme="http://bettersoft.gitee.io/categories/Blog/"/>
+    
+      <category term="Study" scheme="http://bettersoft.gitee.io/categories/Blog/Study/"/>
+    
+    
+      <category term="hexo" scheme="http://bettersoft.gitee.io/tags/hexo/"/>
+    
+      <category term="website" scheme="http://bettersoft.gitee.io/tags/website/"/>
+    
+      <category term="programming" scheme="http://bettersoft.gitee.io/tags/programming/"/>
+    
+  </entry>
+  
+</feed>
