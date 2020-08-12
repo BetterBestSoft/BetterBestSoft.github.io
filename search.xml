@@ -4,22 +4,38 @@
   
     
     <entry>
-      <title>app-ads.txt</title>
-      <link href="/2020/08/10//app-ads.txt/"/>
-      <url>/2020/08/10//app-ads.txt/</url>
+      <title>文章链接优化之abbrlink</title>
+      <link href="/post/abbrlink-of-article-link-optimization.html"/>
+      <url>/post/abbrlink-of-article-link-optimization.html</url>
       
-        <content type="html"><![CDATA[<p>google.com, pub-7835447125995338, DIRECT, f08c47fec0942fa0<br>unity.com, 2571554, DIRECT, 96cabb5fbdde37a7<br>loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b<br>adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176<br>pokkt.com, 6246, RESELLER, c45702d9311e25fd<br>pubmatic.com, 156520, RESELLER, 5d62403b186f2ace<br>pubmatic.com, 157384, RESELLER, 5d62403b186f2ace<br>spotxchange.com, 117872, RESELLER, 7842df1d2fe2db34<br>spotx.tv, 117872, RESELLER, 7842df1d2fe2db34<br>openx.com, 540871654, RESELLER, 6a698e2ec38604c6<br>rubiconproject.com, 20014, RESELLER, 0bfd66d529a55807<br>rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807<br>rubiconproject.com, 21526, RESELLER, 0bfd66d529a55807<br>rubiconproject.com, 20050, RESELLER, 0bfd66d529a55807<br>reforge.in, 107, RESELLER<br>velismedia.com, 725, RESELLER<br>appnexus.com, 7353, RESELLER<br>xandr.com, 7353, RESELLER<br>algorix.co, 54616, RESELLER<br>telaria.com, rwd19-2571554, RESELLER, 1a4e959a1b50034a<br>tremorhub.com, rwd19-2571554, RESELLER, 1a4e959a1b50034a</p>]]></content>
+        <content type="html"><![CDATA[<p><a href="https://www.jianshu.com/p/c18fe1bf0fb8" target="_blank" rel="noopener">https://www.jianshu.com/p/c18fe1bf0fb8</a></p>]]></content>
       
       
+      <categories>
+          
+          <category> Blog </category>
+          
+          <category> Study </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> programming </tag>
+            
+        </tags>
       
     </entry>
     
     
     
     <entry>
-      <title>Company Information</title>
-      <link href="/2020/07/25/information/"/>
-      <url>/2020/07/25/information/</url>
+      <title>information</title>
+      <link href="/post/information.html"/>
+      <url>/post/information.html</url>
       
         <content type="html"><![CDATA[<h2 id="BetterSoft"><a href="#BetterSoft" class="headerlink" title="BetterSoft"></a>BetterSoft</h2><p>Company Website: <a href="http://bettersoft.gitee.io">http://bettersoft.gitee.io</a></p><h3 id="Chen-Xu-whereisnothing"><a href="#Chen-Xu-whereisnothing" class="headerlink" title="Chen Xu     whereisnothing"></a>Chen Xu     whereisnothing</h3><p>Github: <a href="https://github.com/whereisnothing" target="_blank" rel="noopener">https://github.com/whereisnothing</a><br>Gitee: <a href="https://gitee.com/whereisnothing" target="_blank" rel="noopener">https://gitee.com/whereisnothing</a><br>QQ: <a href="mqqwpa://im/chat?chat_type=wpa&uin=2185747069">2185747069</a><br>Wechat: chenxuhefei<br>Email: <a href="mailto:chenxu119168743@sina.com">chenxu119168743@sina.com</a></p><h3 id="Apps"><a href="#Apps" class="headerlink" title="Apps"></a>Apps</h3><p>Phone Manager(手机管理器): <a href="https://play.google.com/store/apps/details?id=com.ccteam.cleangod" target="_blank" rel="noopener">Google Play</a><br>BlackJack(21点): <a href="https://play.google.com/store/apps/details?id=com.ccteam.BlackJack" target="_blank" rel="noopener">Google Play</a><br>TwentyFourPoints(24点): <a href="https://play.google.com/store/apps/details?id=com.ccteam.TwentyFourPoints" target="_blank" rel="noopener">Google Play</a><br>EliminateHappily(消消乐): <a href="https://play.google.com/store/apps/details?id=com.ccteam.EliminateHappily" target="_blank" rel="noopener">Google Play</a><br>BouquetOfGoldenFlowers(炸金花): <a href="https://play.google.com/store/apps/details?id=com.ccteam.BouquetOfGoldenFlowers" target="_blank" rel="noopener">Google Play</a><br>ShowHand(梭哈): <a href="https://play.google.com/store/apps/details?id=com.ccteam.ShowHand" target="_blank" rel="noopener">Google Play</a><br>LianLianKan(连连看): <a href="https://play.google.com/store/apps/details?id=com.ccteam.LianLianKan" target="_blank" rel="noopener">Google Play</a><br>GreedySnake(贪吃蛇): <a href="https://play.google.com/store/apps/details?id=com.ccteam.GreedySnake" target="_blank" rel="noopener">Google Play</a><br>MineSweeper(扫雷): <a href="https://play.google.com/store/apps/details?id=com.ccteam.MineSweeper" target="_blank" rel="noopener">Google Play</a></p>]]></content>
       
@@ -48,9 +64,9 @@
     
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2020/07/25/hello-world/"/>
-      <url>/2020/07/25/hello-world/</url>
+      <title>Hexo HelloWorld</title>
+      <link href="/post/hexo-helloworld.html"/>
+      <url>/post/hexo-helloworld.html</url>
       
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
       
@@ -68,9 +84,9 @@
             
             <tag> hexo </tag>
             
-            <tag> website </tag>
-            
             <tag> programming </tag>
+            
+            <tag> website </tag>
             
         </tags>
       

@@ -8,8 +8,22 @@
     </url>
     
     <url>
+        <loc>http://bettersoft.gitee.io/tags/</loc>
+        <lastmod>2020-08-12T04:08:27.206Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>http://bettersoft.gitee.io/about/</loc>
-        <lastmod>2020-08-08T04:45:25.642Z</lastmod>
+        <lastmod>2020-08-12T04:03:05.944Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://bettersoft.gitee.io/404.html</loc>
+        <lastmod>2020-08-12T01:11:37.630Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -17,20 +31,6 @@
     <url>
         <loc>http://bettersoft.gitee.io/404.html</loc>
         <lastmod>2020-08-03T09:02:24.654Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://bettersoft.gitee.io/404.html</loc>
-        <lastmod>2020-07-25T07:10:49.339Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://bettersoft.gitee.io/tags/</loc>
-        <lastmod>2020-07-25T06:55:25.208Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
